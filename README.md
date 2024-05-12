@@ -43,11 +43,3 @@ REACT_APP_FIREBASE_FOLLOW =
 REACT_APP_FIREBASE_UPVOTE_STEEM_POST =
 REACT_APP_FIREBASE_SAVE_USER_SETTINGS =
 ```
-
-### Contribution
-
-If you want to contribute get in touch on my discord channel [https://discord.gg/hHmZgk6](https://discord.gg/hHmZgk6).
-
-### License
-
-MIT License Copyright (c) 2018-present, Szymon Wolak
